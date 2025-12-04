@@ -147,41 +147,44 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Hashan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    logoPath: "/images/logo5.png",
+    title: "Intern Software Engineer",
+    date: "Sempember 2024 - March 2025",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed and maintained dynamic, responsive web applications using React, Next.js and Angular focusing on user-friendly interfaces and optimized performance.",
+      "Using TFVC (Team Foundation Version Control) to manage and track code changes, ensuring smooth collaboration and project integrity.",
+      "Diagnosed and resolved bugs, optimized code for efficiency, and adhered to best practices to maintain high code quality.",
     ],
+    company: 'I-Context (Pvt) Ltd',
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Hashan’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    logoPath: "/images/logo4.png",
+    title: "Intern Software Engineer",
+    date: "October 2023 - April 2024",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Contributed to the development of scalable web applications using Angular and Spring Boot.",
+      "Gained hands-on experience with React, Angular, Spring Boot, and proficient use of Git, Trello, and Jira for version control and project management.",
+      "Worked effectively within cross-functional teams, collaborating with various stakeholders to deliver high-quality solutions and applied analytical skills to address challenges, streamline processes, and optimize solutions throughout the software development lifecycle.",
     ],
+    company: 'Epic Lanka (Pvt) Ltd',
   },
-  {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
-    responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
-    ],
-  },
+  // {
+  //   review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+  //   imgPath: "/images/exp3.png",
+  //   logoPath: "/images/logo3.png",
+  //   title: "React Native Developer",
+  //   date: "March 2019 - May 2020",
+  //   responsibilities: [
+  //     "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
+  //     "Improved app performance and user experience through code optimization and testing.",
+  //     "Coordinated with the product team to implement features based on feedback.",
+  //   ],
+  //   company: '',
+  // },
 ];
 
 const expLogos = [
