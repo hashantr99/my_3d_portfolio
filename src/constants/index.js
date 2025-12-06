@@ -248,21 +248,30 @@ const testimonials = [
 ];
 
 const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
-  },
+  // {
+  //   name: "insta",
+  //   url: "https://www.instagram.com/",
+  //   imgPath: "/images/insta.png",
+  // },
+  // {
+  //   name: "fb",
+  //   url: "https://www.facebook.com/",
+  //   imgPath: "/images/fb.png",
+  // },
+  // {
+  //   name: "x",
+  //   url: "https://x.com/",
+  //   imgPath: "/images/x.png",
+  // },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/hashantr99/",
     imgPath: "/images/linkedin.png",
+  },
+  {
+    name: "github",
+    url: "https://github.com/hashantr99",
+    imgPath: "/images/github.png",
   },
 ];
 
