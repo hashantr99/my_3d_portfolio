@@ -89,6 +89,69 @@ const abilities = [
   },
 ];
 
+const techStackImgs2 = [
+  {
+    name: "React",
+    imgPath: "/images/logos2/react.png",
+  },
+  {
+    name: "NextJs",
+    imgPath: "/images/logos2/next.png",
+  },
+  {
+    name: "Angular",
+    imgPath: "/images/logos2/angular.png",
+  },
+  {
+    name: "Express",
+    imgPath: "/images/logos2/express.png",
+  },
+  {
+    name: "Javascript",
+    imgPath: "/images/logos2/js.png",
+  },
+  {
+    name: "Typescript",
+    imgPath: "/images/logos2/ts.png",
+  },
+  {
+    name: "Springboot",
+    imgPath: "/images/logos2/springboot.png",
+  },
+  {
+    name: "Java",
+    imgPath: "/images/logos2/java.png",
+  },
+  {
+    name: "MySQL",
+    imgPath: "/images/logos2/mysql.png",
+  },
+  {
+    name: "Docker",
+    imgPath: "/images/logos2/docker.png",
+  },
+  {
+    name: "C++",
+    imgPath: "/images/logos2/cpp.png",
+  },
+  {
+    name: "Git",
+    imgPath: "/images/logos2/git.png",
+  },
+  {
+    name: "Linux",
+    imgPath: "/images/logos2/linux.png",
+  },
+  {
+    name: "TailwindCSS",
+    imgPath: "/images/logos2/tailwind.png",
+  },
+  {
+    name: "Arduino",
+    imgPath: "/images/logos2/arduino.png",
+  },
+];
+
 const techStackImgs = [
   {
     name: "React Developer",
@@ -286,5 +349,6 @@ export {
   socialImgs,
   techStackIcons,
   techStackImgs,
+  techStackImgs2,
   navLinks,
 };

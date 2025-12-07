@@ -5,6 +5,7 @@ import HeroExperience from '../components/HeroModels/HeroExperience'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import AnimatedCounter from '../components/AnimatedCounter'
+import DeveloperExperience from '../components/HeroModels/DeveloperExperience'
 
 const Hero = () => {
 
@@ -65,7 +66,8 @@ const Hero = () => {
             {/* RIGHT: 3D MODEL */}
             <figure>
                 <div className="hero-3d-layout">
-                    <HeroExperience />
+                    {/* <HeroExperience /> */}
+                    <DeveloperExperience />
                 </div>
             </figure>
         </div>

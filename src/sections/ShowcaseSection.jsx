@@ -55,7 +55,7 @@ const ShowcaseSection = () => {
                     </div>
                     <div className="text-content">
                         <h2>Online Learning Made Simple with a Powerful, User-Friendly Web App called Akura</h2>
-                        <p className='text-white-50 md:text-xl'>An web app built with NextJs, MySQL, Clerk, Shadcn, Stripe & TailwindCSS for a fast, user-friendly experience.</p>
+                        <p className='text-white-50 md:text-xl'>AKURA Learning Management System, a full-featured web platform designed for Akura Institute to modernize their manual education workflow. The system streamlines class management, content delivery, student enrollment, progress tracking, and payment handling. I led the entire SDLC—requirements analysis, system design, implementation, and testing—using modern technologies such as Next.js, Prisma, TailwindCSS, Stripe, Clerk Auth, UploadThing, and Mux. The final product delivers a user-friendly, scalable, and secure LMS that improves operational efficiency for administrators, teachers, and students alike.</p>
                     </div>
                 </div>
 
@@ -66,12 +66,14 @@ const ShowcaseSection = () => {
                             <img src="/images/project5.png" alt="Brick Shooter" />
                         </div>
                         <h2>Brick Shooter Game</h2>
+                        <p className='text-white-50 md:text-xl'>Dive into a fast-paced brick-shooter challenge where precision and timing are everything. Built in C++, this game tasks you with launching projectiles to break through waves of colorful bricks before they reach the bottom. With simple controls, it’s a classic arcade experience reimagined for modern play.</p>
                     </div>
                     <div className="project" ref={project3Ref}>
                         <div className="image-wrapper bg-[#ffe7eb]">
                             <img src="/images/project4.png" alt="CeyNest" />
                         </div>
                         <h2>CeyNest - A Home Rental Frontend</h2>
+                        <p className='text-white-50 md:text-xl'>CeyNest is a fully responsive home-rental user interface built with React and Tailwind CSS, designed to deliver a premium, visually immersive browsing experience. It features a floating glass-style navbar, a cinematic 113-frame scroll animation, dynamic property listings, testimonials, and a polished CTA section. The project uses reusable components, clean data-driven architecture, and smooth UI interactions to create a modern, elegant rental-platform feel.</p>
                     </div>
                 </div>
             </div>
