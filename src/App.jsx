@@ -8,13 +8,15 @@ import TechStack from "./sections/TechStack"
 import Testimonials from "./sections/Testimonials"
 import Contact from "./sections/Contact"
 import Footer from "./sections/Footer"
+import Projects from "./sections/Projects"
 
 const App = () => {
   return (
     <>
     <NavBar />
     <Hero />
-    <ShowcaseSection />
+    {/* <ShowcaseSection /> */}
+    <Projects />
     {/* <LogoSection /> */}
     <FeatureCards />
     <ExperienceSection />
